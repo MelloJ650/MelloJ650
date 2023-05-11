@@ -1,16 +1,35 @@
-### Hi there 👋
+### Hi there 🤙🏻
 
-<!--
-**MelloJ650/MelloJ650** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Joseph, a passionate developer with a love for coding and building cool projects. Here, you'll find a collection of my works, contributions, and personal projects that reflect my skills and interests.
 
-Here are some ideas to get you started:
+## 🔭 What I'm currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently focused on honing my skills in web development, specifically working with JavaScript, React, and Node.js. I'm also exploring data analysis and machine learning techniques using Python and its libraries.
+
+## 🌱 My areas of expertise
+
+- Front-end development with HTML, CSS, and JavaScript
+- Building interactive web applications with React
+- Server-side development with Node.js and Express.js
+- Data analysis and visualization using Python and Pandas
+- Exploring machine learning algorithms and models
+
+## 🚀 Projects I'm proud of
+
+- [Project 1](https://github.com/MelloJ650/RateMySurf): A web application that solves innacurate surf forecasting websites.
+- [Project 2](https://github.com/MelloJ650/LinksDapp): Additional functionality to LinksDAO website to admire Champion NFTs.
+
+## 📫 Let's connect
+
+I'm always excited to collaborate and connect with fellow developers. Feel free to reach out to me via email or through my social media profiles. Let's learn from each other and build amazing things together!
+
+- Email: [melloj650@gmail.com](mailto:your-melloj650@gmail.com)
+- LinkedIn: [Joseph Mello](https://www.linkedin.com/in/josephmellocs/)
+- Twitter: [@JMellowDev](https://twitter.com/JMellowDev)
+
+## 🌟 Fun fact
+
+In my free time, you'll often find me exploring new surfing spots and riding the waves. 🏄‍♂️
+
+Let's code, innovate, and make a positive impact on the world! ✨
+
