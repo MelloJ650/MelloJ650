@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Joseph, a passionate developer with a love for
 
 ## 🔭 What I'm currently working on
 
-I'm currently focused on honing my skills in web development, specifically working with JavaScript, React, and Node.js. I'm also exploring data analysis and machine learning techniques using Python and its libraries.
+I'm currently focused on honing my skills in web development, specifically working with JavaScript, React, and Node.js. I'm also comitted to the new Google Data Analytics Course while exploring data analysis and machine learning techniques using Python and its libraries.
 
 ## 🌱 My areas of expertise
 
