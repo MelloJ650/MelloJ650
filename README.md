@@ -8,11 +8,11 @@ I'm currently focused on honing my skills in web development, specifically worki
 
 ## 🌱 My areas of expertise
 
+- Data analysis and visualization using Python and Pandas
+- Exploring machine learning algorithms and models
 - Front-end development with HTML, CSS, and JavaScript
 - Building interactive web applications with React
 - Server-side development with Node.js and Express.js
-- Data analysis and visualization using Python and Pandas
-- Exploring machine learning algorithms and models
 
 ## 🚀 Projects I'm proud of
 
