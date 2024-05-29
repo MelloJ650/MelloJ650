@@ -8,7 +8,6 @@ I'm currently building an app that finds cheap flights for users while I brainst
 
 ## 🌱 My areas of expertise
 
-- Data analysis and visualization using Python
 - Building AI inegrated applications
 - Front-end development with HTML/CSS Frameworks, and JavaScript
 - Back-end dvelopment with Python or C
