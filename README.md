@@ -1,23 +1,23 @@
 ### Hi there 🤙🏻
 
-Welcome to my GitHub profile! I'm Joseph, a passionate developer with a love for coding and building cool projects. Here, you'll find a collection of my works, contributions, and personal projects that reflect my skills and interests.
+Hey! I'm Joseph, a passionate developer with a love for building applications that can be used to solve problems that exist in the current market.
 
 ## 🔭 What I'm currently working on
 
-I'm currently focused on honing my skills in web development, specifically working with JavaScript, React, and Node.js. I'm also comitted to the new Google Data Analytics Course while exploring data analysis and machine learning techniques using Python and its libraries.
+I'm currently building an app that finds cheap flights for users while I brainstorm other ideas to build.
 
 ## 🌱 My areas of expertise
 
-- Data analysis and visualization using Python and Pandas
-- Exploring machine learning algorithms and models
-- Front-end development with HTML, CSS, and JavaScript
-- Building interactive web applications with React
-- Server-side development with Node.js and Express.js
+- Data analysis and visualization using Python
+- Building AI inegrated applications
+- Front-end development with HTML/CSS Frameworks, and JavaScript
+- Back-end dvelopment with Python or C
 
 ## 🚀 Projects I'm proud of
 
 - [Project 1](https://github.com/MelloJ650/RateMySurf): A web application that solves innacurate surf forecasting websites.
 - [Project 2](https://github.com/MelloJ650/LinksDapp): Additional functionality to LinksDAO website to admire Champion NFTs.
+- [Project 3](https://github.com/MelloJ650/FlightFinder): Finds cheap flights and informs the user when is the cheapest time to buy the ticket.
 
 ## 📫 Let's connect
 
