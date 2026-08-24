@@ -4,7 +4,7 @@ Following curiosity, if you are interested in my projects feel free to reach to 
 
 ## What am I currently working on?
 
-Whatever peaks my interest! It can change at thats what keeps me coding!
+Whatever peaks my interest! It can change and thats what keeps me coding!
 
 ## My areas of expertise
 
